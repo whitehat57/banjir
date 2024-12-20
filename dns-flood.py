@@ -13,7 +13,7 @@ init(autoreset=True)
 def print_banner():
     banner = f"""
 {Fore.CYAN}╔══════════════════════════════════════════╗
-║         DNS FLOOD ATTACK TOOL             ║
+║         DNS FLOOD ATTACK TOOL            ║
 ║        Created with ❤️  by Danz           ║
 ╚══════════════════════════════════════════╝{Style.RESET_ALL}
     """
